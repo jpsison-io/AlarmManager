@@ -1,9 +1,9 @@
-package com.zubair.alarmmanager
+package com.zubair.demo
 
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.util.Log
 import com.zubair.alarmmanager.builder.AlarmBuilder
 import com.zubair.alarmmanager.enums.AlarmType

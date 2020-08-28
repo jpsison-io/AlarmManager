@@ -1,4 +1,4 @@
-package com.zubair.alarmmanager
+package com.zubair.demo
 
 import org.junit.Test
 

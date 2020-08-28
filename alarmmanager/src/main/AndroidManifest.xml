@@ -5,12 +5,6 @@
     <application
         android:allowBackup="true"
         android:supportsRtl="true">
-
-        <receiver android:name=".receivers.BootCompleteReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
     </application>
 
 </manifest>
